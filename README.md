@@ -66,7 +66,7 @@ Focused on learning, experimenting, and improving my skills every day.
 
 ### 🌐 Connect With Me
 <p align="center">
-  <a href="mailto:UMMAL-BANEEN@github.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=00BFFF" /></a>
+  <a href="mailto:www.zahrashah15@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=00BFFF" /></a>
   <a href="https://github.com/UMMAL-BANEEN"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00BFFF" /></a>
 </p>
 
